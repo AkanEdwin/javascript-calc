@@ -1,7 +1,7 @@
 // Make two variables for data input
 let x,y;
-x = ParseFloat(parseInt(prompt("enter the first number")));
-y = ParseFloat(parseInt(prompt("enter the second number")));
+x = parseFloat(parseInt(prompt("enter the first number")));
+y = parseFloat(parseInt(prompt("enter the second number")));
 let z = x+y;
 let a = x+y;
 let b = x+y;
